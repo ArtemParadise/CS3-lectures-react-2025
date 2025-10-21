@@ -1,0 +1,10 @@
+
+.list {
+  list-style-type: '🍪 '; /* Emoji as bullet points */
+  padding-left: 20px;
+}
+
+.listItem {
+  margin-bottom: 8px;
+  text-align: left;
+}

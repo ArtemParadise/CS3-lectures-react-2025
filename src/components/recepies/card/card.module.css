@@ -1,0 +1,18 @@
+.recipeCard {
+  font-family: Georgia, serif;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 25px;
+  width: 350px;
+  margin: 20px;
+  color: #e0e0e0;
+  background-color: #1f1612;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.45), 0 2px 8px rgba(160, 82, 45, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(240, 228, 215, 0.15);
+}
+
+.title {
+  text-align: center;
+  color: #a0522d; /* Sienna brown */
+  margin-bottom: 20px;
+}
